@@ -1,3 +1,19 @@
+;;; chordpro.el --- Support for the Chordpro programming language  -*- lexical-binding: t; -*-
+
+;; Copyright (C) 2010-2021 Your Name
+
+;; Author: Your Name <yourname@example.com>
+;; Maintainer: Someone Else <someone@example.com>
+;; Created: 14 Jul 2010
+;; Keywords: languages
+;; URL: https://example.com/chordpro
+
+;; This file is not part of GNU Emacs.
+
+;; This file is free software…
+;; along with this file.  If not, see <https://www.gnu.org/licenses/>.
+
+
 (require 'derived)
 (require 'dropdown-list nil t)
 
