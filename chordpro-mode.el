@@ -1,4 +1,4 @@
-;;; chordpro.el --- Support for the Chordpro programming language  -*- lexical-binding: t; -*-
+;;; chordpro.el --- Support for the Chordpro programming language  -*- lexical-binding: nil; -*-
 
 ;; Copyright (C) 2010-2021 Your Name
 
