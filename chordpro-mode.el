@@ -231,3 +231,4 @@ the start and end of the chord."
   
 (provide 'chordpro)
 
+;;; chordpro.el ends here
